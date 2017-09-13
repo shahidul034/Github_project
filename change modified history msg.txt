@@ -1,0 +1,2 @@
+to change last history msg history:
+"git commit --amend -m <history msg>"

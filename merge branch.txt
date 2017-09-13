@@ -1,0 +1,2 @@
+to merge the two branches:
+"git branch --merged"

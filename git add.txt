@@ -1,0 +1,4 @@
+to add one file:
+"git add file.txt"
+to add all the changed file in git:
+"git add ."(here . all)

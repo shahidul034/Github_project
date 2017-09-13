@@ -1,0 +1,2 @@
+to move new branch:
+"git checkout <branch name>"

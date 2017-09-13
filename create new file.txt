@@ -1,0 +1,4 @@
+To create new file:
+"touch new file"
+to write something in file:
+"vim <file name>"

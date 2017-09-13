@@ -1,0 +1,2 @@
+to find difference from modified file:
+"git diff master..new_branch"

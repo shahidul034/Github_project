@@ -1,0 +1,4 @@
+to configure git:
+"git config --Global user.name <NAME>"
+"git config --Global user.email <EMAIL>"
+

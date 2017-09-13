@@ -1,0 +1,5 @@
+to show log:
+"git log"
+to show log one line:
+"git log --oneline"
+

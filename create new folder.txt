@@ -1,0 +1,5 @@
+1.1st create new folder.
+2.enter the folder,open git bash
+3.type <.gitkeep>
+4.add and commit
+"git commit -am <new folder added>"

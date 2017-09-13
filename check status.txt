@@ -1,0 +1,2 @@
+to check status(if modified or not ):
+"git status"
